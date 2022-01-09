@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/greeting/greeting.iml" filepath="$PROJECT_DIR$/greeting/greeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/start/greeting/greeting.iml" filepath="$PROJECT_DIR$/start/greeting/greeting.iml" />
       <module fileurl="file://$PROJECT_DIR$/start/name/name.iml" filepath="$PROJECT_DIR$/start/name/name.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/start/web/web.iml" filepath="$PROJECT_DIR$/start/web/web.iml" />
     </modules>
   </component>
 </project>

@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 @EnableConfigurationProperties(GreetingProperties.class)
+@EnableDiscoveryClient
 public class GreetingApplication {
 
     public static void main(String[] args) {
